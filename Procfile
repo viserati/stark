@@ -1,1 +1,1 @@
-web: gunicorn pages_project.wgsi --log-file--
+web: gunicorn pages_project.wgsi
