@@ -1,1 +1,1 @@
-web: gunicorn pages.wgsi
+web: gunicorn pages_project.wgsi
